@@ -12,6 +12,7 @@ While it is certainly important to learn how to write code
   - Base-10 (Decimal)
   - Base-16 (Hexadecimal)
   - Base-n ... etc
+- Linux vs Unix vs Windows
 - Terminology:
   - [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
 
