@@ -1,68 +1,70 @@
-## Coding Tools
-- Git
-- Text Editors
+## Ruby Specific
+- irb
+- gem
+- rvm
+- #!/usr/bin/env ruby
 
 ## Coding topics
 1. Input / Output
-   - puts, print
-   - gets.chomp
+   - `puts`, `print`
+   - `gets.chomp`
 2. Data Types (Ruby)
   - Integers
-    - 15
+    - `15`
   - Float
-    - 15.00
+    - `15.00`
   - String
-    - "15" or "fifteen"
+    - ``"15"`` or ``"fifteen"``
   - Boolean
-    - true, false, nil
+    - `true`, `false`, `nil`
   - Symbol
-    - :fifteen
+    - `:fifteen`
 3. Variables
   - Local Variable
-    - a = 5
+    - `a = 5`
   - Global
-    - $a = 5
+    - `$a = 5`
   - Class
-    - @@a = 5
+    - `@@a = 5`
   - Instance
-    - @a = 5
+    - `@a = 5`
 4. Constants
-  - MY_CONST = 5
+  - `MY_CONST = 5`
 4. Array
-  - a = [5, 2, 4, 1]
+  - `a = [5, 2, 4, 1]`
 5. Hash
-  - age = {:sally => 5, :timmy => 4.75}
-  - age = {"sally" => 5, "timmy" => 4.75}
+  - `age = {:sally => 5, :timmy => 4.75}`
+  - `age = {"sally" => 5, "timmy" => 4.75}`
 4. Operators and Operands
-  - + (addition)
-  - - (subtraction)
-  - * (multiplication)
-  - / (division)
-  - ** (exponentiation)
-  - % (modulus)
-    - the rest of a division, e.g. 5 % 2 returns 1
+  - `+` (addition)
+  - `-` (subtraction)
+  - `*` (multiplication)
+  - `/` (division)
+  - `**` (exponentiation)
+  - `%` (modulus)
+    - the rest of a division, e.g. `5 % 2 returns 1`
   - assignment operators
-    - += (plus equals)
-    - -= (minus equals)
-    - \*=
-    - /=
-    - \**=
-    - !=
-    - %=
+    - `+=` (plus equals)
+    - `-=` (minus equals)
+    - `*=`
+    - `/=`
+    - `**=`
+    - `!=`
+    - `%=`
 5. Expressions
-  - x + 17
+  - `x + 17`
 6. Comments
-  - =begin & =end
-  - \#
+  - `=begin & =end`
+  - `#`
 7. String Operations
   - interpolation
-    - puts "Sally is \#{age} years old"
+    - `puts "Sally is #{age} years old"`
 8. Boolean Operations
-  - == (same as)
-  - and, && (AND)
-  - or, || (OR)
-  - not, ! (NOT)
-  - \>, <, <=, >=
+  - `==` (same as)
+  - `and`, `&&` (AND)
+  - `or`, `||` (OR)
+  - `not`, `!` (NOT)
+  - `>`, `<`, `<=`, `>=`
 10. Conditional Statements
   - if, then, else
   - until
@@ -89,7 +91,18 @@
 15. Serialization
   - Marshal
 16. Environment Variables (ENV)
+17. NOT COVERED
+  - Blocks
+  - Procs
+  - Lambdas
+  - Exception handling
+  - Ternary operators
+  - REGEX
+  - Ruby Standard Classes
 
+## Coding Tools
+- Git
+- Text Editors
 ____
 ## Software Development Concepts
 - Libraries (gems)
@@ -118,3 +131,4 @@ ____
 - Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
 - Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
 - Terminology: [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
+- Launch School Ruby ebook: [https://launchschool.com/books/ruby/read/introduction](https://launchschool.com/books/ruby/read/introduction)
