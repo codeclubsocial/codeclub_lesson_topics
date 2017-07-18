@@ -3,6 +3,7 @@
 - gem
 - rvm
 - #!/usr/bin/env ruby
+- require
 
 ## Coding topics
 1. Input / Output
@@ -83,6 +84,7 @@
 12. Methods
   - The terms "procedure, function, subroutine, subprogram, and method" all really mean the same thing: a callable sub-program within a larger program.
 13. Classes & Modules
+  - include (modules)
 14. File IO
   - read file
   - write file
