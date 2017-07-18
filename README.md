@@ -40,7 +40,7 @@
   - x + 17
 5. Comments
   - =begin & =end
-  - #
+  - \#
 6. String Operations
   - interpolation
 7. Boolean Operations
@@ -79,13 +79,12 @@ Terminology:
 - Agile Development
 - Model-View-Controller (MVC)
 - Object Oriented Programming (OOP)
-- vs Functional Programming?
+  - vs Functional Programming?
 - Interpreted Languages vs Compiled Languages
 - Data Encapsulation
 - Data Abstraction
 - Polymorphism
 - Inheritance
--
 
 ## Computing Concepts
 - BASH command line
@@ -98,11 +97,8 @@ Terminology:
 
 
 <br><br>
-How to think like a computer scientist:
-- [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
+How to think like a computer scientist: [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
 
-Intro to computing:
-- [http://introcomputing.org/](http://introcomputing.org/)
+Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
 
-Stanford CS101:
-- [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
+Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
