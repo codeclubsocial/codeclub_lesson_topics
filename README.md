@@ -6,7 +6,7 @@
 1. Input / Output
    - puts, print
    - gets.chomp
-1. Data Types (Ruby)
+2. Data Types (Ruby)
   - Integers
     - 15
   - Float
@@ -17,10 +17,10 @@
     - true, false, nil
   - Symbol
     - :fifteen
-2. Variables
+3. Variables
   - A = 5
   - Global, Class, Instance, Local
-3. Operators and Operands
+4. Operators and Operands
   - + (addition)
   - - (subtraction)
   - * (multiplication)
@@ -36,25 +36,25 @@
     - \**=
     - !=
     - %=
-4. Expressions
+5. Expressions
   - x + 17
-5. Comments
+6. Comments
   - =begin & =end
   - \#
-6. String Operations
+7. String Operations
   - interpolation
-7. Boolean Operations
+8. Boolean Operations
   - == (same as)
   - and, && (AND)
   - or, || (OR)
   - not, ! (NOT)
   - \>, <, <=, >=
-8. Arrays & Hashes
-9. Conditional Statements
+9. Arrays & Hashes
+10. Conditional Statements
   - if, then, else
   - until
   - Case
-10. Loops
+11. Loops
   - while
   - for
   - .each do (Ruby only)
@@ -65,16 +65,21 @@
         puts start * 2
     end
     ```
-11. Methods
+12. Methods
   - The terms "procedure, function, subroutine, subprogram, and method" all really mean the same thing: a callable sub-program within a larger program.
-12. Classes
-13. File IO
-14. Environment Variables (ENV)
+13. Classes & Modules
+14. File IO
+  - read file
+  - write file
+  - YAML
+  - CSV
+15. Serialization
+  - Marshal
+16. Environment Variables (ENV)
 
-Terminology:
-- [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
-
+____
 ## Software Development Concepts
+- Libraries (gems)
 - BDD / TDD
 - Agile Development
 - Model-View-Controller (MVC)
@@ -95,10 +100,8 @@ Terminology:
   - Base-16 (Hexadecimal)
   - Base-n ... etc
 
-
-<br><br>
-How to think like a computer scientist: [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
-
-Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
-
-Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
+____
+- How to think like a computer scientist: [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
+- Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
+- Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
+- Terminology: [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
