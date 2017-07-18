@@ -18,8 +18,21 @@
   - Symbol
     - :fifteen
 3. Variables
-  - A = 5
-  - Global, Class, Instance, Local
+  - Local Variable
+    - a = 5
+  - Global
+    - $a = 5
+  - Class
+    - @@a = 5
+  - Instance
+    - @a = 5
+4. Constants
+  - MY_CONST = 5
+4. Array
+  - a = [5, 2, 4, 1]
+5. Hash
+  - age = {:sally => 5, :timmy => 4.75}
+  - age = {"sally" => 5, "timmy" => 4.75}
 4. Operators and Operands
   - + (addition)
   - - (subtraction)
@@ -43,13 +56,13 @@
   - \#
 7. String Operations
   - interpolation
+    - puts "Sally is \#{age} years old"
 8. Boolean Operations
   - == (same as)
   - and, && (AND)
   - or, || (OR)
   - not, ! (NOT)
   - \>, <, <=, >=
-9. Arrays & Hashes
 10. Conditional Statements
   - if, then, else
   - until
