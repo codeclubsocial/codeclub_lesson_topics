@@ -33,7 +33,7 @@
   - `MY_CONST = 5`
 4. Array
   - `a = [5, 2, 4, 1]`
-5. Hash
+5. Hash (key, value)
   - `age = {:sally => 5, :timmy => 4.75}`
   - `age = {"sally" => 5, "timmy" => 4.75}`
 4. Operators and Operands
