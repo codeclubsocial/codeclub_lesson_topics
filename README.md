@@ -133,6 +133,6 @@ ____
 - Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
 - Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
 - Terminology: [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
-- [Simple Programming Problems] (https://adriann.github.io/programming_problems.html)
+- [Simple Programming Problems](https://adriann.github.io/programming_problems.html)
 - More advanced programming problems: [euler.net](https://projecteuler.net/)
 - Launch School Ruby ebook: [https://launchschool.com/books/ruby/read/introduction](https://launchschool.com/books/ruby/read/introduction)
