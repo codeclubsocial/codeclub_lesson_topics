@@ -1,3 +1,11 @@
+## CodeAcademy Tutorials
+- [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css)
+- [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
+- [Learn Git](https://www.codecademy.com/learn/learn-git)
+- [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+
+
 ## Ruby Specific
 - irb
 - gem
@@ -129,10 +137,10 @@ ____
   - Base-n ... etc
 
 ____
-- How to think like a computer scientist: [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
-- Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
-- Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
-- Terminology: [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
 - Simple Programming Problems: [https://adriann.github.io/programming_problems.html](https://adriann.github.io/programming_problems.html)
 - More advanced programming problems: [euler.net](https://projecteuler.net/)
+- Intro to computing:  [http://introcomputing.org/](http://introcomputing.org/)
+- Stanford CS101:  [https://web.stanford.edu/class/cs101/index.html](https://web.stanford.edu/class/cs101/index.html)
 - Launch School Ruby ebook: [https://launchschool.com/books/ruby/read/introduction](https://launchschool.com/books/ruby/read/introduction)
+- How to think like a computer scientist: [http://www.greenteapress.com/thinkpython/html/index.html](http://www.greenteapress.com/thinkpython/html/index.html)
+- Terminology: [40 CS Terms Explained](https://venturebeat.com/2015/05/07/40-key-computer-science-terms-explained-in-ways-your-boss-can-understand/)
