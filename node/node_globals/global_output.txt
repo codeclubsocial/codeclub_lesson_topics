@@ -5,11 +5,11 @@
   DTRACE_HTTP_CLIENT_REQUEST: [Function],
   DTRACE_HTTP_CLIENT_RESPONSE: [Function],
   global: [Circular],
-  process: 
+  process:
    process {
      title: 'node',
      version: 'v6.11.1',
-     moduleLoadList: 
+     moduleLoadList:
       [ 'Binding contextify',
         'Binding natives',
         'NativeModule events',
@@ -55,7 +55,7 @@
         'Binding pipe_wrap',
         'Binding stream_wrap',
         'Binding signal_wrap' ],
-     versions: 
+     versions:
       { http_parser: '2.7.0',
         node: '6.11.1',
         v8: '5.1.281.103',
@@ -67,60 +67,19 @@
         openssl: '1.0.2k' },
      arch: 'x64',
      platform: 'darwin',
-     release: 
+     release:
       { name: 'node',
         lts: 'Boron',
         sourceUrl: 'https://nodejs.org/download/release/v6.11.1/node-v6.11.1.tar.gz',
         headersUrl: 'https://nodejs.org/download/release/v6.11.1/node-v6.11.1-headers.tar.gz' },
-     argv: 
+     argv:
       [ '/usr/local/bin/node',
-        '/Users/brianjason/Google_Drive_Family/code/Node/tutorials/print_global.js' ],
+        '/.../Node/tutorials/print_global.js' ],
      execArgv: [],
-     env: 
-      { rvm_bin_path: '/Users/brianjason/.rvm/bin',
-        TERM_PROGRAM: 'iTerm.app',
-        GEM_HOME: '/Users/brianjason/.rvm/gems/ruby-2.4.1',
-        TERM: 'xterm-256color',
-        SHELL: '/bin/bash',
-        IRBRC: '/Users/brianjason/.rvm/rubies/ruby-2.4.1/.irbrc',
-        FTP_USER: 'carttools@cryptomole.com',
-        TMPDIR: '/var/folders/s7/tyhz1tk94hdgkjt0m0c7498c0000gn/T/',
-        Apple_PubSub_Socket_Render: '/private/tmp/com.apple.launchd.yLTcF8PnTs/Render',
-        TERM_PROGRAM_VERSION: '3.0.15',
-        OLDPWD: '/Users/brianjason/Google_Drive_Family/code/Node/tutorials/intro_to_node',
-        MY_RUBY_HOME: '/Users/brianjason/.rvm/rubies/ruby-2.4.1',
-        TERM_SESSION_ID: 'w0t2p0:769A5358-2D27-45F9-89F0-1684011D8476',
-        USER: 'brianjason',
-        _system_type: 'Darwin',
-        rvm_path: '/Users/brianjason/.rvm',
-        SSH_AUTH_SOCK: '/private/tmp/com.apple.launchd.CkJpWKrJhP/Listeners',
-        __CF_USER_TEXT_ENCODING: '0x1F5:0x0:0x0',
-        rvm_prefix: '/Users/brianjason',
-        PATH: '/usr/local/sbin:/Users/brianjason/.rvm/gems/ruby-2.4.1/bin:/Users/brianjason/.rvm/gems/ruby-2.4.1@global/bin:/Users/brianjason/.rvm/rubies/ruby-2.4.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/brianjason/.rvm/bin',
-        PWD: '/Users/brianjason/Google_Drive_Family/code/Node/tutorials',
-        LANG: 'en_US.UTF-8',
-        ITERM_PROFILE: 'molay',
-        _system_arch: 'x86_64',
-        XPC_FLAGS: '0x0',
-        ITERM_ORIG_PS1: '\\h:\\W \\u\\$ ',
-        PS1: '\\h:\\W \\u\\$ ',
-        _system_version: '10.12',
-        FTP_PASS: 'M7vK2wMR2xFN',
-        XPC_SERVICE_NAME: '0',
-        rvm_version: '1.29.1 (latest)',
-        SHLVL: '1',
-        HOME: '/Users/brianjason',
-        COLORFGBG: '15;0',
-        ITERM_PREV_PS1: '\\[\u001b]133;D;$?\u0007\u001b]1337;RemoteHost=brianjason@Brians-MacBook-Pro.local\u0007\u001b]1337;CurrentDir=/Users/brianjason/Google_Drive_Family/code/Node/tutorials\u0007\u001b]133;A\u0007\\]\\h:\\W \\u\\$ \\[\u001b]133;B\u0007\\]',
-        ITERM_SESSION_ID: 'w0t2p0:769A5358-2D27-45F9-89F0-1684011D8476',
-        LOGNAME: 'brianjason',
-        GEM_PATH: '/Users/brianjason/.rvm/gems/ruby-2.4.1:/Users/brianjason/.rvm/gems/ruby-2.4.1@global',
-        RUBY_VERSION: 'ruby-2.4.1',
-        SECURITYSESSIONID: '186a7',
-        _system_name: 'OSX',
-        _: '/usr/local/bin/node' },
+     env:
+      { **redacted** },
      pid: 29113,
-     features: 
+     features:
       { debug: false,
         uv: true,
         ipv6: true,
@@ -164,7 +123,7 @@
      binding: [Function: binding],
      _linkedBinding: [Function: _linkedBinding],
      _setupDomainUse: [Function: _setupDomainUse],
-     _events: 
+     _events:
       { warning: [Function],
         newListener: [Function],
         removeListener: [Function],
@@ -188,16 +147,16 @@
      exit: [Function],
      kill: [Function],
      argv0: 'node',
-     mainModule: 
+     mainModule:
       Module {
         id: '.',
         exports: {},
         parent: null,
-        filename: '/Users/brianjason/Google_Drive_Family/code/Node/tutorials/print_global.js',
+        filename: '/.../Node/tutorials/print_global.js',
         loaded: false,
         children: [],
         paths: [Object] } },
-  Buffer: 
+  Buffer:
    { [Function: Buffer]
      poolSize: 8192,
      from: [Function],
